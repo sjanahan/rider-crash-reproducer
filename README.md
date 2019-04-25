@@ -4,7 +4,7 @@
 * Mono JIT compiler version 5.18.1.0
 * dotnet v2.1.504
 
-Causes stack dump like the following
+Open in Rider (version above) and receive **Critical Failure** Modal with error log below
 ```
 at Microsoft.FSharp.Compiler.Lexer.tripleQuoteString (Microsoft.FSharp.Compiler.AbstractIL.Internal.ByteBuffer,Microsoft.FSharp.Core.FSharpFunc`2<Microsoft.FSharp.Compiler.Range/range, Microsoft.FSharp.Core.FSharpFunc`2<bool, Microsoft.FSharp.Core.FSharpFunc`2<byte[], Microsoft.FSharp.Compiler.Parser/token>>>,Microsoft.FSharp.Compiler.Range/range,Microsoft.FSharp.Compiler.Lexhelp/lexargs,bool,Internal.Utilities.Text.Lexing.LexBuffer`1<char>) [0x00000] in <5c1787c68716e29aa7450383c687175c>:0
   at Microsoft.FSharp.Compiler.Lexer.tripleQuoteString (Microsoft.FSharp.Compiler.AbstractIL.Internal.ByteBuffer,Microsoft.FSharp.Core.FSharpFunc`2<Microsoft.FSharp.Compiler.Range/range, Microsoft.FSharp.Core.FSharpFunc`2<bool, Microsoft.FSharp.Core.FSharpFunc`2<byte[], Microsoft.FSharp.Compiler.Parser/token>>>,Microsoft.FSharp.Compiler.Range/range,Microsoft.FSharp.Compiler.Lexhelp/lexargs,bool,Internal.Utilities.Text.Lexing.LexBuffer`1<char>) [0x00000] in <5c1787c68716e29aa7450383c687175c>:0
