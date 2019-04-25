@@ -1,5 +1,8 @@
 # rider-crash-reproducer
-Open in Rider 2018.3.4
+* Rider 2018.3.4
+* Mac OSx 10.14.3
+* Mono JIT compiler version 5.18.1.0
+* dotnet v2.1.504
 
 Causes stack dump like the following
 ```
